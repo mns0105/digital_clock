@@ -1,0 +1,12 @@
+body {
+  
+  background: #ac074c;
+  text-align:  center;
+  font-family: 'Open Sans', sans-serif;
+  text-orientation: sideways-right;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
